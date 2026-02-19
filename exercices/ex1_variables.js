@@ -9,3 +9,4 @@ function infoEtudiant(nom,note){
     return nom+": "+ (note+"/20") +" est "+resultat;
 }
 
+infoEtudiant("amin",14);
